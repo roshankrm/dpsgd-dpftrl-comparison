@@ -1,4 +1,4 @@
-# CS798L_DPSGD_Roshan_Devansh
+# CS798L_DPSGD_DPFTRL
 
 An end-to-end PyTorch implementation and comparison of Differentially Private Stochastic Gradient Descent (DP-SGD) and Differentially Private Follow-The-Regularized-Leader (DP-FTRL) on MNIST. This repository provides tree-aggregation noise, FTRL optimizer, privacy accounting, and training scripts with configurable hyperparameters.
 
